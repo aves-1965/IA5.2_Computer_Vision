@@ -1,0 +1,10 @@
+# Ignorar datasets descargados automaticamente (pueden ser muy grandes)
+cifar-10-python.tar.gz
+cifar-10-batches-py/
+
+# Ignorar cualquier otro dataset grande
+*.tar.gz
+*.tar
+*.zip
+*.pkl
+*.bin
